@@ -1,0 +1,18 @@
+#Análisis de penetración de AIRBNB en la ciudad de México:
+¿Cuál es la evolución de la renta de AIRBNB en la ciudad de México?
+¿Dónde incrementa el costo por noche?
+¿Existe algún período donde el precio por noche se incrementa?
+¿ Cuál es el precio promedio por noche?
+Cantidad de host y de AIRBNB
+Calificaciones de AIRBNB según el vecindario
+#Reporte
+
+![alt text](2024-12-19-1.png)
+
+El precio promedio de un AIRBNB por noche en la ciudad de México es de $1209.
+Existen 20065 AIRBNB en la plataforma ubicados en CDMX y casi la mitad de host lo que nos estaría indicando que cada Host tiene en promedio 2 AIRBNB.
+Tenemos un mapa donde podemos ver en que vecindario se incrementa el costo por noche y también saber dónde están mejores calificados analizando junto con el gráfico de barras.
+Tenemos también un gráfico con la tendencia histórica del precio y un pronóstico de cómo evolucionaría, mostrando que el precio se incrementará en el futuro.
+
+# Utilidad del reporte
+Con este reporte podemos ver el vecindario más rentable.
